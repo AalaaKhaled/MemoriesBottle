@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481110341802",
+    "firebase_url": "https://memories-bottle.firebaseio.com",
+    "project_id": "memories-bottle",
+    "storage_bucket": "memories-bottle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481110341802:android:f7c29cd3339e6e12cb38d3",
+        "android_client_info": {
+          "package_name": "com.example.memoriesbottle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481110341802-g3ihpp4j4lk5d9fhusi4taaaf3oa9k2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memoriesbottle",
+            "certificate_hash": "f8db4337589da796e9456e9545d28533de3369f0"
+          }
+        },
+        {
+          "client_id": "481110341802-sqjf0mcvdq1ggs193gcc6o4i7hdc91o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUvYnlLVNHRLpRIAD8Y7ix0otCKp2ZJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481110341802-sqjf0mcvdq1ggs193gcc6o4i7hdc91o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF3B00</color>
+    <!--<color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color> -->
+    <color name="colorWhite">#FFF</color>
+
+    <color name="colorRose">#00FFFFFF</color>
+    <color name="colorDark">#1b0045</color>
+    <color name="colorDarkApha">#7a071724</color>
+    <color name="colorHint">#7fffffff</color>
+    <color name="colorFacebook">#3b5998</color>
+    <color name="colorRoseA">#33BEB6B6</color>
+    <color name="colorPrimaryDark">#A79C99</color>
+    <color name="colorAccent">#FF3B00</color>
+
+
+</resources>
